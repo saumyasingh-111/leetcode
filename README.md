@@ -15,7 +15,7 @@ This repository contains my daily CP practice
 - CodeChef: 5 problems (100–200)
 - DSA Theory: OOPS 2, Recursion 1
 
-### Dec 19
+### Dec 21
 - Codeforces: 2A + 2B
 - LeetCode: 2 problems
 - CodeChef: 5 problems (100–200)
